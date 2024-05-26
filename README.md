@@ -4,7 +4,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-4.0.0-orange)
 ![H2 Database](https://img.shields.io/badge/H2%20Database-1.4.200-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Descrição
 
